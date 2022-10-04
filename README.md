@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomaskaizer
 - 👀 I’m interested in  conhecer o mundo de SISTEMAS
-- 🌱 I’m currently learning como operar com JavaScript, e iniciei faculdade em Analise e Desenvolvimento de 
+- 🌱 I’m currently learning como operar com JavaScript, e iniciei agora faculdade em Analise e Desenvolvimento de Sistemas
 - 📫 How to reach me  (thomas.kaizermarques@gmail.com)
 
 <!---
